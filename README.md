@@ -5,7 +5,7 @@ https://mosman.dk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/smartboy1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smartboy1021" height="30" width="40" /></a>
+<a href="https://twitter.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smartboy1021" height="30" width="40" /></a>
 <a href="https://discord.gg/384337943277338645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="384337943277338645" height="30" width="40" /></a>
  <a href="mailto:mohamed@mosman.dk"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email logo" height="30" width="40" /></a>
 </p>
