@@ -19,6 +19,13 @@ https://mosman.dk
 ![](https://nirzak-streak-stats.vercel.app/?user=Smartbot1x&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartbot1x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/max.deeq2012">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31llxbgktjrgvk264oporxldrzne&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
