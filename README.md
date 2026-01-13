@@ -21,6 +21,10 @@ https://mosman.dk
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31llxbgktjrgvk264oporxldrzne&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+<div align="center">
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=max.deeq2012&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=max.deeq2012&redirect=true)
+</div>
+
 
 ###
 
