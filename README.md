@@ -16,14 +16,15 @@ https://mosman.dk
 
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/max.deeq2012">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31llxbgktjrgvk264oporxldrzne&count=10&unique=true" alt="Spotify recently played"  />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=max.deeq2012&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
   </a>
-</div>
-<div align="center">
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=max.deeq2012&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=max.deeq2012&redirect=true)
-</div>
+</p>
+
+
+
+
 
 
 ###
