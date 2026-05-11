@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 
 <p align="center">
-  Frontend Developer • UI/UX Enthusiast • Building Side Projects
+  Frontend Developer • UI/UX • Building Side Projects
 </p>
 
 <p align="center">
